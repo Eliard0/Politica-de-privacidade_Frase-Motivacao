@@ -15,7 +15,7 @@
         entendendo que talvez não possamos fornecer alguns dos serviços desejados.</span></p>
 <p><span style="color: rgb(68, 68, 68);"> será considerado como aceitação de nossas
         práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com
-        dados do usuário e informações pessoais, entre em contacto connosco Email: eliardosilva81@gmail.com.</span></p>
+        dados do usuário e informações pessoais, entre em contacto conosco Email: eliardosilva81@gmail.com.</span></p>
 
 <h3><span style="color: rgb(68, 68, 68);">Compromisso do Usuário</span></h3>
 <p><span style="color: rgb(68, 68, 68);">O usuário se compromete a fazer uso adequado dos conteúdos e da informação que
